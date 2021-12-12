@@ -1,0 +1,5 @@
+Joc	90.0	2
+Monopoly	99.0	1
+Imagine	80.0	3
+ImagineA	60.0	0
+product	20.0	1

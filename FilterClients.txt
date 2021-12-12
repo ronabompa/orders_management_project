@@ -1,0 +1,4 @@
+Claudiu	claus@gmail.com	Teslui	5
+NumeEditat	email@gmail.com	adr	15
+George	stefan@yahoo.com	Cluj	25
+Alex	email@gmail.com	adr	5
